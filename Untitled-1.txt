@@ -1,0 +1,2 @@
+$accessKey= 'AKIAQKQYFAJ/*borrarr eso*/RKJU2LE52';
+$secretKey= 'Y3u0biMZl6f0eGJhuo83/*borraresto*/eegOqSq2q+591gclPbiz';
